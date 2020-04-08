@@ -13,7 +13,7 @@ const baseConfig = (env) => {
     filename: 'bundle.js',
     path: outputPath,
     pathinfo: ifNotProd(),
-    publicPath: '',
+    publicPath: '/dist/',
   };
 
   return {

@@ -84,7 +84,7 @@
     "react-hot-loader": "^4.12.20",
     "redux-devtools": "^3.5.0",
     "rimraf": "^3.0.2",
-    "stylelint": "^13.3.0",
+    "stylelint": "^15.10.1",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-standard": "^20.0.0",
     "stylelint-config-styled-components": "^0.1.1",
